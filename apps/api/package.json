@@ -92,7 +92,7 @@
     "glob": "^10.4.2",
     "gpt3-tokenizer": "^1.1.5",
     "ioredis": "^5.4.1",
-    "ip-address": "^10.0.1",
+    "ip-address": "^10.7.4",
     "joplin-turndown-plugin-gfm": "^1.0.12",
     "jsdom": "^26.0.0",
     "json-schema-to-zod": "^2.3.0",
