@@ -28,7 +28,7 @@
     "axios": "^1.6.8",
     "isows": "^1.0.4",
     "typescript-event-target": "^1.1.1",
-    "zod": "^3.23.8",
+    "zod": "^4.6.7",
     "zod-to-json-schema": "^3.23.0"
   },
   "bugs": {
